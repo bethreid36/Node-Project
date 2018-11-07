@@ -1,0 +1,19 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "workshop 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethreid36/Node-Project.git"
+  },
+  "author": "Beth Reid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethreid36/Node-Project/issues"
+  },
+  "homepage": "https://github.com/bethreid36/Node-Project#readme"
+}
